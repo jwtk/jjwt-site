@@ -1,0 +1,7 @@
+{
+  "name": "jjwt-redirect-site",
+  "version": "1.0.0",
+  "description": "Netlify redirect site",
+  "author": "bdemers",
+  "license": "Apache-2.0"
+}
